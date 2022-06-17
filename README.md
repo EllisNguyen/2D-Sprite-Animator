@@ -1,1 +1,1 @@
-# 2D-Sprite-Animator
+# 2D Sprite Animator
